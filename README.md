@@ -1,3 +1,3 @@
 # Classroom-Git
 This is my first Git repository.
-Author - Srushti 
+Author - Srushti
